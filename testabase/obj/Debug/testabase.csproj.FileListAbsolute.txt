@@ -1,0 +1,11 @@
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\bin\Debug\testabase.exe.config
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\bin\Debug\testabase.exe
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\bin\Debug\testabase.pdb
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\obj\Debug\testabase.csprojResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\obj\Debug\testabase.Properties.Resources.resources
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\obj\Debug\testabase.csproj.GenerateResource.Cache
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\obj\Debug\testabase.exe
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\obj\Debug\testabase.pdb
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\bin\Debug\friends.mdf
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\bin\Debug\friends_log.ldf
+c:\users\dylan\documents\visual studio 2015\Projects\testabase\obj\Debug\testabase.Friends.resources
